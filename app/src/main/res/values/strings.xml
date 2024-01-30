@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cavalli</string>
+    <string name="app_name1">brand</string>
+    <string name="app_name2">modello</string>
+    <string name="buttoninvia">Buttoninvia</string>
+    <string name="textview">TextView</string>
+    <string name="CONTA_MACCHINE">CONTA MACCHINE:</string>
+</resources>
